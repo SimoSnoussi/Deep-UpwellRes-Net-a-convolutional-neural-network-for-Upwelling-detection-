@@ -6,3 +6,4 @@ This is a Keras based implementation of a U-Net like architecture to perform Upw
 * The dataset consists of satellite-derived Sea Surface Temperature images provided by MODIS Terra satellite and can found in http://oceancolor.gsfc.nasa.gov/
 
 # Network architecture 
+![](model%20(1).png)
