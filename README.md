@@ -1,9 +1,11 @@
-# U-Net based model for Upwelling segmentation in Sea Surface Temperature (SST) satellite images
-This is a Keras based implementation of a U-Net like architecture to perform Upwelling region extraction in SST images.
+# Deep residual U-Net based model for Upwelling detection in Sea Surface Temperature (SST) satellite images
+This is a Keras based implementation of a deep learning model that combines residual network and U-Net like architecture to perform Upwelling extraction in SST images.
 
 # Implementation 
-* Deep U-Net architecture is used to perform segmentation 
-* The dataset consists of satellite-derived Sea Surface Temperature images provided by MODIS Terra satellite and can found in http://oceancolor.gsfc.nasa.gov/
+* U-Net like architecture with residual units is used to perform segmentation.
+* The dataset consists of satellite-derived Sea Surface Temperature (SST) images provided by MODIS Terra satellite and their corresponding labels. 
+* The SST used can be found in http://oceancolor.gsfc.nasa.gov/
+* UpwellRes-Net is compared to a simple U-Net based structure (Upwell-Net).
 
 # Network architecture 
 ![](model%20(1).png)
