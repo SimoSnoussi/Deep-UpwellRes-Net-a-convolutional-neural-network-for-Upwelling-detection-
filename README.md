@@ -8,4 +8,4 @@ This is a Keras based implementation of a deep learning model that combines resi
 * UpwellRes-Net is compared to a simple U-Net based structure (Upwell-Net).
 
 # Network architecture of Upwell-Net 
-![](model%20(1).png)
+![](upwellres_net.png)
