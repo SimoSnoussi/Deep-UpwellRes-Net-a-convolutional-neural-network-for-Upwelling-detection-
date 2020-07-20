@@ -7,5 +7,5 @@ This is a Keras based implementation of a deep learning model that combines resi
 * The SST used can be found in http://oceancolor.gsfc.nasa.gov/
 * UpwellRes-Net is compared to a simple U-Net based structure (Upwell-Net).
 
-# Network architecture of Upwell-Net 
+# Network architecture of UpwellRes-Net 
 ![](upwellres-net.png)
